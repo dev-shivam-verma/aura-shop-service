@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: aura-shop-service
+  datasource:
+    url: ${POSTGRES_URL}
+    username: ${POSTGRES_USER}
+    password: ${POSTGRES_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+
+
+
+
+twilio:
+  account_sid: ${TWILIO_ACCOUNT_SID}
+  auth_token: ${TWILIO_AUTH_TOKEN}
+  messaging-service-sid: ${MESSAGING_SERVICE_SID}
+
+jwt:
+    secret: ${JWT_SECRET}
+
