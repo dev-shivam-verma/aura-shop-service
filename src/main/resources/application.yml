@@ -18,3 +18,7 @@ twilio:
 jwt:
     secret: ${JWT_SECRET}
 
+
+springdoc:
+  swagger-ui:
+    path: /public/docs
