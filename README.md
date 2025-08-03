@@ -50,7 +50,7 @@ We welcome contributions from the open-source community!
 ## Documentation & API Reference
 
 - [Future Documentation Link Here]
-- [API Reference Link Here]
+- https://aura-shop-service-production.up.railway.app/public/docs
 
 
 
