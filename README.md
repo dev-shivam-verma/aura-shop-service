@@ -28,7 +28,7 @@ Aura Shop Service is the backend of a visionary product focused on user satisfac
    - Open the project in your preferred Java IDE.
    - Build and run the main class in the Spring Boot project.
 3. **Deployed Service:**  
-   The service is deployed and available at: https://aura-shop-service-production.up.railway.app
+   The service is deployed and available at: https://aura-shop-service-docs-integrated.onrender.com
 
 ## Project Structure & Extensibility
 
